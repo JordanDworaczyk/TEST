@@ -15,6 +15,14 @@ Traderbot
 *A trading bot for traders.*
 
 
+About
+------
+The purpose of this project is to create the tools necessary to profit from the
+volatility found in cryptocurrency markets, and to assist contributors in their
+journey to grow and secure their own financial wealth. Furthermore, the goal of
+this GitHub Repo is to build and foster an open source community of developers
+and traders who can benefit from and contribute to making the project stronger.
+
 Documentation |docs_badge|
 -------------
 
@@ -26,7 +34,7 @@ You can find all documentation relating to this project `here <https://traderbot
 
 Community
 ----------
-Join us on Discord `here <https://discord.gg/znCASFC>`_.
+`Join <https://discord.gg/znCASFC>`_ us on Discord.
 
 .. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
 
@@ -46,5 +54,6 @@ Important Notice
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
+
 
 
