@@ -1,5 +1,7 @@
 # TEST 
 
+
 .. image:: candles.png
     :align: center
-    :scale: 20 %
+    :width: 100 px
+    :heigh: 100 px
