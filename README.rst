@@ -2,6 +2,8 @@
 
 
 .. image:: candles.png
-    :align: center
-    :width: 100 px
-    :heigh: 100 px
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
