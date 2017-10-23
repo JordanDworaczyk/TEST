@@ -1,3 +1,7 @@
+Traderbot
+=========
+*A trading bot for traders.*
+
 .. raw:: html
 
     <embed>
@@ -8,11 +12,6 @@
       </h1>
     </embed>
     
-
-
-Traderbot
-=========
-*A trading bot for traders.*
 
 
 About
