@@ -1,4 +1,4 @@
 # TEST 
-.. image:: docs/candles.png
+.. image:: candles.png
     :align: center
     :scale: 50 %
