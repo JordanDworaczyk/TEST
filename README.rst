@@ -8,11 +8,11 @@
       </h1>
     </embed>
     
-
+*A trading bot for traders.*
 
 Traderbot
 ==========
-*A trading bot for traders.*
+
 
 Documentation |docs_badge|
 -------------
