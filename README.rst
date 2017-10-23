@@ -11,10 +11,8 @@
 
 
 Traderbot
-
+=========
 *A trading bot for traders.*
-
-==========
 
 
 Documentation |docs_badge|
