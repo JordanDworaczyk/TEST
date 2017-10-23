@@ -8,6 +8,7 @@
       </h1>
     </embed>
     
+
 Traderbot
 ==========
 *A trading bot for traders.*
