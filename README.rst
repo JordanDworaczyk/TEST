@@ -16,7 +16,7 @@ Traderbot
 
 About
 ------
-The purpose of this project is to create the tools to profit from
+The purpose of this project is to create tools to profit from
 volatility in cryptocurrency markets, and to support contributors
 with code that can grow and secure their own financial wealth. 
 
