@@ -39,6 +39,16 @@ Community
     
 .. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
 
+.. raw:: html
+
+    <embed>
+      <h1 align="center">
+       	<br>
+ 	        <img width="600" src=" https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="candles">
+ 	      <br>
+      </h1>
+    </embed>
+
 Important Notice
 -----------------
 
