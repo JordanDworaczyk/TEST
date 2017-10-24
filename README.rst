@@ -36,13 +36,7 @@ You can find all documentation relating to this project `here <https://traderbot
 Community
 ----------
 `Join <https://discord.gg/znCASFC>`_ us on Discord.
-
-.. raw:: html
-
     
-        <iframe src="https://discordapp.com/widget?id=372091820961693696&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-    
-
 .. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
 
 Important Notice
