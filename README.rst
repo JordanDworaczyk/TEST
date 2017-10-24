@@ -9,13 +9,13 @@
     </embed>
     
 Traderbot
-==========
+----------
 *A trading bot for traders.*
 
 
 
 About
-------
+~~~~~~
 The purpose of this project is to create trading bots that can profit from
 volatility within cryptocurrency markets, and to support contributors
 with code that can grow and secure their own financial wealth. 
@@ -35,7 +35,7 @@ this project stronger.
     </embed>
 
 Documentation |docs_badge|
--------------
+~~~~~~
 
 .. |docs_badge| image:: https://readthedocs.org/projects/traderbot/badge/?version=latest
     :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
@@ -52,7 +52,7 @@ Documentation |docs_badge|
     </embed>
     
 Community & Support 
--------------------
+~~~~~~
 .. raw:: html
 
     <embed>
@@ -64,7 +64,7 @@ Community & Support
     </embed>
 
 Important Notice
------------------
+~~~~~~
 
   Copyright 2017 Jordan Dworaczyk
 
