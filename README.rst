@@ -17,8 +17,8 @@ Traderbot
 About
 ------
 The purpose of this project is to create the tools to profit from
-volatility found in cryptocurrency markets, and to assist contributors in their
-journey to grow and secure their own financial wealth. 
+volatility in cryptocurrency markets, and to support contributors
+with code that can grow and secure their own financial wealth. 
 
 Furthermore, the goal of this GitHub Repo is to build and foster an open source 
 community of developers and traders who can benefit and contribute to making 
