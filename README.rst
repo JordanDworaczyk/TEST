@@ -24,13 +24,6 @@ Furthermore, the goal of this GitHub Repo is to build and foster an open source
 community of developers and traders who can benefit and contribute to making 
 this project stronger.
 
-Documentation |docs_badge|
--------------
-
-.. |docs_badge| image:: https://readthedocs.org/projects/traderbot/badge/?version=latest
-    :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
 .. raw:: html
 
     <embed>
@@ -38,6 +31,13 @@ Documentation |docs_badge|
  	    <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
       </p>
     </embed>
+
+Documentation |docs_badge|
+-------------
+
+.. |docs_badge| image:: https://readthedocs.org/projects/traderbot/badge/?version=latest
+    :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
 
@@ -48,8 +48,8 @@ Community
 .. raw:: html
 
     <embed>
-      <h1 align="center">
- 	    <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="api_center">
+      <h1 align="inline">
+ 	    <img width="120" height="120" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
       </h1>
     </embed>
 
