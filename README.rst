@@ -40,7 +40,7 @@ Community
 .. raw:: html
 
     <embed>
-<iframe src="https://discordapp.com/widget?id=372091820961693696&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+        <iframe src="https://discordapp.com/widget?id=372091820961693696&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
     </embed>
 
 .. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
