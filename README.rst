@@ -1,15 +1,15 @@
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <h1 align="center">
        	<br>
  	        <img width="200" src="candles.png" alt="candles">
  	      <br>
-      </p>
+      </h1>
     </embed>
     
 Traderbot
-=========
+---------
 *A trading bot for traders.*
 
 About
