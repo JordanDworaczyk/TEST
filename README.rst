@@ -34,9 +34,9 @@ Documentation |docs_badge|
 .. raw:: html
 
     <embed>
-      <h1 align="center">
+      <p align="center">
  	    <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
-      </h1>
+      </p>
     </embed>
 
 You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
