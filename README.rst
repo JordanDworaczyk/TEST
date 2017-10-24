@@ -31,8 +31,6 @@ Documentation |docs_badge|
     :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
-
 .. raw:: html
 
     <embed>
@@ -40,6 +38,8 @@ You can find all documentation relating to this project `here <https://traderbot
  	    <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
       </h1>
     </embed>
+
+You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
 
 Community
 ----------
