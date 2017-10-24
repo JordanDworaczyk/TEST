@@ -20,7 +20,9 @@ The purpose of this project is to create trading bots that can profit from
 volatility within cryptocurrency markets, and to support contributors
 with code that can grow and secure their own financial wealth. 
 
-
+Furthermore, the goal of this GitHub Repo is to build and foster an open source 
+community of developers and traders who can benefit and contribute to making 
+this project stronger.
 
 .. raw:: html
 
@@ -32,9 +34,7 @@ with code that can grow and secure their own financial wealth.
       </p>
     </embed>
     
-Furthermore, the goal of this GitHub Repo is to build and foster an open source 
-community of developers and traders who can benefit and contribute to making 
-this project stronger.
+
 
 Documentation |docs_badge|
 ~~~~~~
