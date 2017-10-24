@@ -33,6 +33,14 @@ Documentation |docs_badge|
 
 You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
 
+.. raw:: html
+
+    <embed>
+      <h1 align="center">
+ 	    <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
+      </h1>
+    </embed>
+
 Community
 ----------
 `Join <https://discord.gg/znCASFC>`_ us on Discord.
@@ -41,9 +49,7 @@ Community
 
     <embed>
       <h1 align="center">
-       	
- 	        <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
- 	 
+ 	    <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="api_center">
       </h1>
     </embed>
 
