@@ -41,12 +41,18 @@ Documentation |docs_badge|
     :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
+.. raw:: html
 
-Community
-----------
-`Join <https://discord.gg/znCASFC>`_ us on Discord.
-
+    <embed>
+      <h1 align="center">
+        <a href="https://traderbot.readthedocs.io/en/latest/">
+ 	    <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
+        </a>
+      </h1>
+    </embed>
+    
+Community & Support 
+-------------------
 .. raw:: html
 
     <embed>
