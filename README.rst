@@ -46,26 +46,26 @@ Documentation |docs_badge|
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <h1 align="center">
         <a href="https://traderbot.readthedocs.io/en/latest/">
  	    <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
         </a>
-      </p>
+      </h1>
     </embed>
-~~~~~~~~~
+
     
 Support 
 ~~~~~~
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <h1 align="center">
         <a href="https://discord.gg/znCASFC">
  	    <img width="500" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
         </a>
-      <p>
+      </h1>
     </embed>
-~~~~~~~~~
+
 
 Important Notice
 ~~~~~~
