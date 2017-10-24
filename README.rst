@@ -51,7 +51,7 @@ Documentation |docs_badge|
       </p>
     </embed>
     
-Community & Support 
+Support 
 ~~~~~~
 .. raw:: html
 
