@@ -44,7 +44,7 @@ Community
     <embed>
       <h1 align="center">
        	<br>
- 	        <img width="600" src=" https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="candles">
+ 	        <img width="600" src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
  	      <br>
       </h1>
     </embed>
