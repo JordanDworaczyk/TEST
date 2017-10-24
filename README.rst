@@ -52,6 +52,7 @@ Documentation |docs_badge|
         </a>
       </p>
     </embed>
+~~~~~~~~~
     
 Support 
 ~~~~~~
@@ -64,6 +65,7 @@ Support
         </a>
       <p>
     </embed>
+~~~~~~~~~
 
 Important Notice
 ~~~~~~
