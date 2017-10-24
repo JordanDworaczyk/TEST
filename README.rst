@@ -28,7 +28,9 @@ this project stronger.
 
     <embed>
       <p align="center">
+      <a href="">
  	    <img src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
+      </a>
       </p>
     </embed>
 
@@ -48,8 +50,10 @@ Community
 .. raw:: html
 
     <embed>
-      <h1 align="inline">
- 	    <img width="120" height="120" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
+      <h1 align="center">
+        <a href="https://discord.gg/znCASFC"
+ 	    <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
+        </a>
       </h1>
     </embed>
 
