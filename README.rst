@@ -1,18 +1,16 @@
-Traderbot
-=========
-*A trading bot for traders.*
-
 .. raw:: html
 
     <embed>
-      <h1 align="center">
+      <p align="center">
        	<br>
  	        <img width="200" src="candles.png" alt="candles">
  	      <br>
-      </h1>
+      </p>
     </embed>
     
-
+Traderbot
+=========
+*A trading bot for traders.*
 
 About
 ------
@@ -44,11 +42,11 @@ Documentation |docs_badge|
 .. raw:: html
 
     <embed>
-      <h1 align="center">
+      <p align="center">
         <a href="https://traderbot.readthedocs.io/en/latest/">
  	    <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
         </a>
-      </h1>
+      </p>
     </embed>
     
 Community & Support 
@@ -56,11 +54,11 @@ Community & Support
 .. raw:: html
 
     <embed>
-      <h1 align="center">
+      <p align="center">
         <a href="https://discord.gg/znCASFC">
  	    <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
         </a>
-      </h1>
+      <p>
     </embed>
 
 Important Notice
