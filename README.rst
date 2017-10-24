@@ -9,7 +9,9 @@
     </embed>
     
 Traderbot
----------
+==========
+*A trading bot for traders.*
+
 .. raw:: html
 
     <embed>
@@ -19,8 +21,6 @@ Traderbot
       </a>
       </p>
     </embed>
-    
-*A trading bot for traders.*
 
 About
 ------
