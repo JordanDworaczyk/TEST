@@ -36,8 +36,6 @@ You can find all documentation relating to this project `here <https://traderbot
 Community
 ----------
 `Join <https://discord.gg/znCASFC>`_ us on Discord.
-    
-.. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
 
 .. raw:: html
 
