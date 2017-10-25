@@ -11,7 +11,7 @@
     </embed>
     
 Traderbot
-----------
+~~~~~~~~~
 *A trading bot for traders.*
 
 
