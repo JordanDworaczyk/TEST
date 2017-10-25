@@ -25,7 +25,7 @@ community of developers and traders who can benefit and contribute to making
 this project stronger.
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| .. raw:: html                                                                                                                    |
+|.. raw:: html                                                                                                                    |
 |                                                                                                                                  |
 |    <embed>                                                                                                                       | 
 |      <p align="center">                                                                                                          |
@@ -35,6 +35,7 @@ this project stronger.
 |      </p>                                                                                                                        |
 |    </embed>                                                                                                                      |
 +----------------------------------------------------------------------------------------------------------------------------------+   
+
 The project is currently being worked on by a *"small-team-of-one."*
     
 If you are interested in joining the project or have any questions slide into the Discord server and say, "Hi!" 
