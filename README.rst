@@ -23,20 +23,7 @@ with code that can grow and secure their own financial wealth.
 Furthermore, the goal of this GitHub Repo is to build and foster an open source 
 community of developers and traders who can benefit and contribute to making 
 this project stronger.
-
-
-.. raw:: html
-
-    <embed> 
-      <p align="center">
-      <a href="">
- 	    <img border-style="inset"
-         src="https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif" alt="api_center">
-      </a>
-      </p>
-    </embed>
    
-
 The project is currently being worked on by a *"small-team-of-one."*
     
 If you are interested in joining the project or have any questions slide into the Discord server and say, "Hi!" 
