@@ -70,6 +70,7 @@ Support
     </embed>
 
 *If you have any questions you can join our Discord server and find help from the developers of the project.*
+
 ----
 
 Important Notice
