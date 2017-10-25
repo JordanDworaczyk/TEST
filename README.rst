@@ -25,7 +25,7 @@ community of developers and traders who can benefit and contribute to making
 this project stronger.
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-|.. raw:: html                                                                                                                    |
+|.. raw:: html                                                                                                                     |
 |                                                                                                                                  |
 |    <embed>                                                                                                                       | 
 |      <p align="center">                                                                                                          |
