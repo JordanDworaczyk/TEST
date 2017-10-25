@@ -17,16 +17,16 @@
 About
 ~~~~~~
 The purpose of this project is to create trading bots with the capabilites to profit from
-volatile cryptocurrency markets, in addition to supporting contributors
-with code that can grow and secure their own financial wealth. 
+volatile cryptocurrency markets. In addition, Traderbot hopes to support code able to 
+grow and secure the financial wealth of its contributors. 
 
 Furthermore, the goal of this GitHub Repo is to build and foster an open source 
 community of developers and traders who can benefit and contribute to making 
-this Traderbot stronger.
+Traderbot stronger.
    
 This project is currently being worked on by a *"small-team-of-one."*
     
-If you are interested in joining the project or have any questions slide into the Discord server and say, "Hi!" 
+If you are interested in joining or have any questions slide into the Discord server and say, "Hi!" 
 
 Documentation |docs_badge|
 ~~~~~~
