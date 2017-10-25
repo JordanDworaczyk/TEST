@@ -1,18 +1,19 @@
 
+   
+.. raw:: html
+
+    <embed>
+      <p align="center">
+       	<br>
+ 	        <img width="300" src="candles.png" alt="candles">
+ 	      <br>
+      <p>
+    </embed>
     
 Traderbot
 ----------
 *A trading bot for traders.*
 
-.. raw:: html
-
-    <embed>
-      <h1 align="center">
-       	<br>
- 	        <img width="300" src="candles.png" alt="candles">
- 	      <br>
-      </h1>
-    </embed>
 
 About
 ~~~~~~
