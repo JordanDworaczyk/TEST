@@ -3,11 +3,11 @@
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <h1 align="center">
        	<br>
  	        <img width="300" src="candles.png" alt="candles">
  	      <br>
-      <p>
+      </h1>
     </embed>
     
 Traderbot
