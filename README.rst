@@ -53,7 +53,7 @@ Documentation |docs_badge|
       </h1>
     </embed>
 
-*All documentation is hosted online at the Read the Docs, and can alternatively be read offline by using `docs/build/index.html`.*
+*All documentation is hosted online at the Read the Docs, and can alternatively be read offline by using ``docs/build/index.html``.*
     
 Support 
 ~~~~~~
@@ -67,6 +67,7 @@ Support
       </h1>
     </embed>
 
+*If you have any questions you can join our Discord server and find help from the developers of the project.*
 
 Important Notice
 ~~~~~~
