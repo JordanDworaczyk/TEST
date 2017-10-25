@@ -34,7 +34,7 @@ this project stronger.
       </p>
     </embed>
     
-The project is currently being worked on by a small-team-of-one, Jordan Dworaczyk, at this time.  
+The project is currently being worked on by a *"small-team-of-one."*
     
 If you are interested in joining the project or have any questions slide into the Discord server and say, "Hi!" 
 
