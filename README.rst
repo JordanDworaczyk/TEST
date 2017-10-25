@@ -10,9 +10,8 @@
       </h1>
     </embed>
     
-Traderbot
+Traderbot: *A trading bot for traders.*
 ~~~~~~~~~
-*A trading bot for traders.*
 
 
 About
