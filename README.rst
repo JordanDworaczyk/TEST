@@ -12,7 +12,7 @@
     
 *Traderbot*
 ~~~~~~~~~
- *a tool for Traders*
+*a tool for Traders*
 
 About
 ~~~~~~
