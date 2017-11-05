@@ -10,9 +10,9 @@
       </h1>
     </embed>
     
-*Traderbot is a tool for Traders*
+*Traderbot*
 ~~~~~~~~~
-
+ *a tool for Traders*
 
 About
 ~~~~~~
