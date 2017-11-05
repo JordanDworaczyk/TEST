@@ -12,7 +12,7 @@
     
 *Traderbot*
 ~~~~~~~~~
-*a tool for Traders*
+*Traderbot is software designed to generate profits at a speed and frequency that is impossible for human traders*
 
 About
 ~~~~~~
