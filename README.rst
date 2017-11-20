@@ -6,10 +6,10 @@
       <p align="center">
  	     <img src="candles.png" alt="candles" width=150 height=150>
       
-        <h3 align="center">Traderbot</h3>
+        <h2 align="center">Traderbot</h3>
       
         <p align="center">
-           Generate profits at a speed and frequency impossible for human traders.
+           Profits at a speed and frequency impossible for human traders.
            <br>
            <a href="https://traderbot.readthedocs.io/en/latest/"><strong>Docs</strong></a> 
            ·
