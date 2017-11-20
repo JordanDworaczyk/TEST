@@ -11,10 +11,9 @@
         <p align="center">
            Generate profits at a speed and frequency impossible for human traders.
            <br>
-           <a href="https://traderbot.readthedocs.io/en/latest/"><strong>Explore Traderbot docs</strong></a> 
-           <br>
-           <br>
-           <a href="https://keybase.io/jordandworaczyk">Contact Me</a>
+           <a href="https://traderbot.readthedocs.io/en/latest/"><strong>Docs</strong></a> 
+           ·
+           <a href="https://keybase.io/jordandworaczyk"><strong>Contact Me</strong></a>
          </p>
        </p>
     </embed>
