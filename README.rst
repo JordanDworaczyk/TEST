@@ -33,17 +33,15 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
-      <p align="left">
-        <p align="left">
-          <a href="https://keybase.io/jordandworaczyk">
- 	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
-          </a>
-          <h3 align="center">Support</h3>
-          <p align="center">
-            If you are interested in joining the project or have any questions you can reach me through keybase.    
-          </p>
+      <h1 align="center">
+        <a href="https://keybase.io/jordandworaczyk">
+ 	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
+        </a>
+        <h3 align="center">Support</h3>
+        <p align="center">
+          Interested? Any questions? You can reach me through keybase.    
         </p>
-      </p>
+      </h1>
     </embed>
 
 
