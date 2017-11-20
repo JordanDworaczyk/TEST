@@ -34,11 +34,11 @@ This project is currently being worked on by a *"small-team-of-one."*
 
     <embed>
     <br>
+      <h2 align="center">Support</h2>
       <p align="center">
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
         </a>
-        <h2 align="center">Support</h2>
         <p align="center">
           Interested? Any questions? You can reach me through keybase.    
         </p>
@@ -49,15 +49,14 @@ This project is currently being worked on by a *"small-team-of-one."*
 
     <embed>
     <br>
+      <h2 align="center">Documentation</h2>
       <p align="center">
         <a href="https://traderbot.readthedocs.io/en/latest/"">
  	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
         </a>
-        <h2 align="center">Documentation
           <a href="http://traderbot.readthedocs.io/en/latest/?badge=latest">
             <img src="https://readthedocs.org/projects/traderbot/badge/?version=latest" alt="docsbadge">
           </a>
-        </h2>
         <p align="center">
           Docs are online at Read the Docs, and offline by using <code>docs/build/index.html</code>.
         </p>
