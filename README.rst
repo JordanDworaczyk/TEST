@@ -17,16 +17,29 @@
 About
 ~~~~~~
 The purpose of this project is to create trading bots able to profit from
-volatility in cryptocurrency markets. In addition, Traderbot hopes to mantain code that is able to 
+volatility in cryptocurrency markets. We can build mantainable code that is able to 
 grow and secure the financial wealth of its contributors. 
 
 Furthermore, the goal of this GitHub Repo is to build and foster an open source 
-community of developers and traders who can benefit and contribute to making 
-Traderbot stronger.
+community of developers and traders who can benefit and contribute to making the
+Traderbot project stronger.
    
 This project is currently being worked on by a *"small-team-of-one."*
     
-If you are interested in joining or have any questions slide into the Discord server and say, "Hi!" 
+Support 
+~~~~~~
+.. raw:: html
+
+    <embed>
+      <h1 align="center">
+        <a href="https://keybase.io/encrypt#jordandworaczyk">
+ 	    <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase">
+        </a>
+      </h1>
+    </embed>
+
+*If you are interested in joining the project or have any questions you can reach me through `keybase <https://keybase.io/jordandworaczyk>`_.*
+
 
 Documentation |docs_badge|
 ~~~~~~
@@ -46,22 +59,6 @@ Documentation |docs_badge|
     </embed>
 
 *All documentation is hosted online at Read the Docs, and can alternatively be read offline by using* ``docs/build/index.html``.    
-
-Support 
-~~~~~~
-.. raw:: html
-
-    <embed>
-      <h1 align="center">
-        <a href="https://discord.gg/znCASFC">
- 	    <img width="500" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="discord">
-        </a>
-      </h1>
-    </embed>
-
-*If you have any questions you can join our Discord server and find help from the developers of the project.*
-
-
 
 Important Notice
 ~~~~~~
