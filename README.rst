@@ -38,8 +38,8 @@ This project is currently being worked on by a *"small-team-of-one."*
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
         </a>
-        <h3 align="center">Contact & Support</h3>
-        <p align="center">
+        <h2 align="left">Contact & Support</h2>
+        <p align="left">
           Interested? Any questions? You can reach me through keybase.    
         </p>
       </p>
