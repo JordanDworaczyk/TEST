@@ -6,7 +6,7 @@
       <p align="center">
  	     <img src="candles.png" alt="candles" width=200 height=200>
       
-        <h3 align="center">Traderbot</h3>
+        <h2 align="center">Traderbot</h3>
       
         <p align="center">
            Generate profits at a speed and frequency impossible for human traders.
