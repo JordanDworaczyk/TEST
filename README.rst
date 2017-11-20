@@ -38,7 +38,7 @@ Support
       </h1>
     </embed>
 
-*If you are interested in joining the project or have any questions you can reach me through `keybase <https://keybase.io/jordandworaczyk>.`_\**
+*If you are interested in joining the project or have any questions you can reach me through `keybase <https://keybase.io/jordandworaczyk>.`_ \**
 
 
 Documentation |docs_badge|
