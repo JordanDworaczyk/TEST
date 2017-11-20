@@ -34,7 +34,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 
     <embed>
       <p align="left">
-        <p align="center">
+        <p align="left">
           <a href="https://keybase.io/jordandworaczyk">
  	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
           </a>
@@ -45,8 +45,6 @@ This project is currently being worked on by a *"small-team-of-one."*
         </p>
       </p>
     </embed>
-
-*If you are interested in joining the project or have any questions you can reach me through keybase.*
 
 
 Documentation |docs_badge|
