@@ -33,7 +33,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <p align="aside">
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
         </a>
@@ -47,9 +47,9 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
-      <p align="center">
+      <p align="aside">
         <a href="https://traderbot.readthedocs.io/en/latest/"">
- 	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs" width=150 height=150>
+ 	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
         </a>
         <h3 align="center">Documentation
           <a href="http://traderbot.readthedocs.io/en/latest/?badge=latest">
@@ -60,23 +60,6 @@ This project is currently being worked on by a *"small-team-of-one."*
           Interested? Any questions? You can reach me through keybase.    
         </p>
       </p>
-    </embed>
-    
-Documentation |docs_badge|
-~~~~~~
-
-.. |docs_badge| image:: https://readthedocs.org/projects/traderbot/badge/?version=latest
-    :target: http://traderbot.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
-.. raw:: html
-
-    <embed>
-      <h1 align="center">
-        <a href="https://traderbot.readthedocs.io/en/latest/">
- 	    <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
-        </a>
-      </h1>
     </embed>
 
 *All documentation is hosted online at Read the Docs, and can alternatively be read offline by using* ``docs/build/index.html``.    
