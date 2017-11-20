@@ -59,7 +59,7 @@ This project is currently being worked on by a *"small-team-of-one."*
           </a>
         </h3>
         <p align="center">
-          Docs are online at Read the Docs, and offline by using ``docs/build/index.html``.
+          Docs are online at Read the Docs, and offline by using <code>docs/build/index.html</code>.
         </p>
       </p>
     </embed>
