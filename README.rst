@@ -30,10 +30,10 @@ Traderbot project stronger.
    
 This project is currently being worked on by a *"small-team-of-one."*
     
-.. raw:: html
+.. |support badge| raw:: html
 
     <embed>
-      <h1 align="center">
+      <p align="center">
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
         </a>
@@ -41,10 +41,27 @@ This project is currently being worked on by a *"small-team-of-one."*
         <p align="center">
           Interested? Any questions? You can reach me through keybase.    
         </p>
-      </h1>
+      </p>
     </embed>
 
+.. |docs badge| raw:: html
 
+    <embed>
+      <p align="center">
+        <a href="https://traderbot.readthedocs.io/en/latest/"">
+ 	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs" width=150 height=150>
+        </a>
+        <h3 align="center">Documentation
+          <a href="http://traderbot.readthedocs.io/en/latest/?badge=latest">
+            <img src="https://readthedocs.org/projects/traderbot/badge/?version=latest" alt="docsbadge">
+          </a>
+        </h3>
+        <p align="center">
+          Interested? Any questions? You can reach me through keybase.    
+        </p>
+      </p>
+    </embed>
+    
 Documentation |docs_badge|
 ~~~~~~
 
