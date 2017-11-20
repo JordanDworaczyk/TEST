@@ -37,7 +37,7 @@ This project is currently being worked on by a *"small-team-of-one."*
       <p align="left">
         <h2 align="left">Contact & Support
           <a href="https://keybase.io/jordandworaczyk">
- 	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
+ 	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=75 height=75>
           </a>
         </h2>
         <p align="left">
