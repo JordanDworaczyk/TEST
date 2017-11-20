@@ -33,6 +33,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
+    <br>
       <p align="center">
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
@@ -47,6 +48,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
+    <br>
       <p align="center">
         <a href="https://traderbot.readthedocs.io/en/latest/"">
  	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
@@ -57,7 +59,7 @@ This project is currently being worked on by a *"small-team-of-one."*
           </a>
         </h3>
         <p align="center">
-          *All documentation is hosted online at Read the Docs, and can alternatively be read offline by using* ``docs/build/index.html``.
+          Docs are online at Read the Docs, and offline by using ``docs/build/index.html``.
         </p>
       </p>
     </embed>
