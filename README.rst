@@ -32,13 +32,13 @@ Support
 
     <embed>
       <h1 align="center">
-        <a href="https://keybase.io/encrypt#jordandworaczyk">
+        <a href="https://keybase.io/jordandworaczyk">
  	    <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase">
         </a>
       </h1>
     </embed>
 
-*If you are interested in joining the project or have any questions you can reach me through* `keybase. <https://keybase.io/jordandworaczyk>`_
+*If you are interested in joining the project or have any questions you can reach me through keybase.*
 
 
 Documentation |docs_badge|
