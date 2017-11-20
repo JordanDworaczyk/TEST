@@ -57,7 +57,7 @@ This project is currently being worked on by a *"small-team-of-one."*
           </a>
         </h2>
         <p align="left">
-          Docs are online at Read the Docs, and offline by using <code>docs/build/index.html</code>.
+          Docs are hosted online at Read the Docs, and offline at <code>docs/build/index.html</code> in the project directory.
         </p>
       </p>
       <br>
