@@ -57,12 +57,12 @@ This project is currently being worked on by a *"small-team-of-one."*
           </a>
         </h3>
         <p align="center">
-          Interested? Any questions? You can reach me through keybase.    
+          *All documentation is hosted online at Read the Docs, and can alternatively be read offline by using* ``docs/build/index.html``.
         </p>
       </p>
     </embed>
 
-*All documentation is hosted online at Read the Docs, and can alternatively be read offline by using* ``docs/build/index.html``.    
+    
 
 Important Notice
 ~~~~~~
