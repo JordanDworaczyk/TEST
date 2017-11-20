@@ -30,7 +30,7 @@ Traderbot project stronger.
    
 This project is currently being worked on by a *"small-team-of-one."*
     
-.. |support badge| raw:: html
+.. raw:: html
 
     <embed>
       <p align="center">
@@ -44,7 +44,7 @@ This project is currently being worked on by a *"small-team-of-one."*
       </p>
     </embed>
 
-.. |docs badge| raw:: html
+.. raw:: html
 
     <embed>
       <p align="center">
