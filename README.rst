@@ -60,6 +60,7 @@ This project is currently being worked on by a *"small-team-of-one."*
           Docs are online at Read the Docs, and offline by using <code>docs/build/index.html</code>.
         </p>
       </p>
+      <br>
     </embed>
 
     
