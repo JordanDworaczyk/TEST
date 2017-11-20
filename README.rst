@@ -37,11 +37,11 @@ This project is currently being worked on by a *"small-team-of-one."*
       <p align="left">
         <h2 align="left">Contact & Support
           <a href="https://keybase.io/jordandworaczyk">
- 	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=25 height=25>
+ 	         <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=50 height=50>
           </a>
         </h2>
         <p align="left">
-          Interested? Any questions? You can reach me through < href="https://keybase.io/jordandworaczyk">keybase</a>.    
+          Interested? Any questions? You can reach <a href="https://keybase.io/jordandworaczyk">me</a> through keybase.    
         </p>
       </p>
     </embed>
