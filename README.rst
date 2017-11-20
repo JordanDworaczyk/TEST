@@ -4,7 +4,7 @@
 
     <embed>
       <p align="center">
- 	     <img width="200" src="candles.png" alt="candles" width=72 height=72>
+ 	     <img src="candles.png" alt="candles" width=72 height=72>
       
         <h3> align="center">Traderbot</h3>
       
