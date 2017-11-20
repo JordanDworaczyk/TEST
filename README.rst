@@ -3,17 +3,22 @@
 .. raw:: html
 
     <embed>
-      <h1 align="center">
-       	<br>
- 	        <img width="200" src="candles.png" alt="candles">
- 	      <br>
-      </h1>
+      <p align="center">
+ 	     <img width="200" src="candles.png" alt="candles" width=72 height=72>
+      
+        <h3> align="center">Traderbot</h3>
+      
+        <p align="center">
+           Generate profits at a speed and frequency impossible for human traders.
+           <br>
+           <a href="https://traderbot.readthedocs.io/en/latest/"><strong>Explore Traderbot docs</strong></a> 
+           <br>
+           <br>
+           <a href="https://keybase.io/jordandworaczyk">Contact Me</a>
+         </p>
+       </p>
     </embed>
     
-*Traderbot*
-~~~~~~~~~
-*Traderbot is software designed to generate profits at a speed and frequency that is impossible for human traders*
-
 About
 ~~~~~~
 The purpose of this project is to create trading bots able to profit from
