@@ -17,7 +17,7 @@
 About
 ~~~~~~
 The purpose of this project is to create trading bots able to profit from
-volatility in cryptocurrency markets. We can build mantainable code that is able to 
+volatility in cryptocurrency markets. The end goal is mantainable code that is able to 
 grow and secure the financial wealth of its contributors. 
 
 Furthermore, the goal of this GitHub Repo is to build and foster an open source 
