@@ -33,7 +33,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
-      <p align="aside">
+      <p align="center">
         <a href="https://keybase.io/jordandworaczyk">
  	       <img src="https://keybase.io/images/icons/ms-icon-310x310.png" alt="keybase" width=150 height=150>
         </a>
@@ -47,7 +47,7 @@ This project is currently being worked on by a *"small-team-of-one."*
 .. raw:: html
 
     <embed>
-      <p align="aside">
+      <p align="center">
         <a href="https://traderbot.readthedocs.io/en/latest/"">
  	       <img src="https://media.readthedocs.com/corporate/img/header-logo.png" alt="readthedocs">
         </a>
